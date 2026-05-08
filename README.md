@@ -19,12 +19,20 @@ Comprobar que:
 
 ---
 
+# Vista previa
+
+![Vista previa](prueba.png)
+
+---
+
 # Estructura del Proyecto
 
-```plaintext id="p9x2m4"
+```plaintext id="u2m8x4"
 /
 ├── index.html
-└── README.md
+├── README.md
+└── img/
+    └── prueba.png
 ```
 
 ---
