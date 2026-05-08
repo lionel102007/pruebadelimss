@@ -21,7 +21,7 @@ Comprobar que:
 
 # Vista previa
 
-![Vista previa](prueba.png)
+![Vista previa](img/prueba.png)
 
 ---
 
